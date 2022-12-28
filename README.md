@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Pandey</h1>
-<h3 align="center">I am Pursuing B.Tech(Hons.) with a specialization of Cyber Security.</h3>
+<h3 align="center">I am Pursuing B.Tech(Hons.) with a specialization in Cyber Security.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshpandey123456" alt="harshpandey123456" /></a> </p>
 
